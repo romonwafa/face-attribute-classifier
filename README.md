@@ -10,7 +10,7 @@ This project is intended as an exploration of how machine learning models analyz
 
 - Classifies faces by age, gender, and race using a custom multitask CLIP vision model.
 - Organizes classified images into folders based on predicted attributes.
-- Uses Hugging Face models and processors for state-of-the-art zero-shot and attribute classification.
+- Uses a multitask vision transformer (CLIP-based) model fine-tuned for facial attribute classification, via Hugging Face.
 - Logs detailed processing info including errors and statistics.
 
 ## Installation
