@@ -82,7 +82,7 @@ This project uses the following models and libraries:
   For model loading and processor utilities.
 
 * [OpenAI CLIP](https://github.com/openai/CLIP)
-  Vision-language architecture powering attribute classification.
+  The original vision-language backbone architecture underlying the model.
 
 ---
 
