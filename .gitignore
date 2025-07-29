@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Output / results
+results/
+output/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
